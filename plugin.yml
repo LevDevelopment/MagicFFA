@@ -1,0 +1,10 @@
+name: MagicFFA
+author: LevDev
+version: 1.0
+main: net.midnightgames.levdev.magicffa.MagicFFA
+
+commands:
+  spawn:
+    description: Spawn
+  ping:
+    description: Ping
